@@ -8,7 +8,7 @@ This repository serves as a comprehensive index for easy access to all my AWS ha
 
 | Repo name| Direct Link | main language |
 | ----------- | ----------- | --------------------------------------------  |
-| Wild ride    | [link]([https://open.kattis.com/submissions/11856054](https://github.com/DanerSound/wildrydes-site)) | html css js | 
+| Wild ride    | [link](https://github.com/DanerSound/wildrydes-site) | html css js | 
 | simple-lambda-cli | [link](https://github.com/DanerSound/simple-lambda-cli) | Golang |
 | first-lambda-test1-CRUD | [link](https://github.com/DanerSound/first-lambda-test1-CRUD) | c# |
 | test-power| [link](https://github.com/DanerSound/test-power-api/tree/main) | X |
